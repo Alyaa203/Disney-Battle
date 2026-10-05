@@ -69,16 +69,4 @@ npm run lint     # ESLint
 
 ---
 
-## Screenshots
-
-> _Screenshots coming soon._
-
-| Login | Deck builder | Battle |
-| :---: | :---: | :---: |
-| ![Login](docs/screenshots/login.png) | ![Deck builder](docs/screenshots/deck.png) | ![Battle](docs/screenshots/battle.png) |
-
-<!-- Add images to docs/screenshots/ using the file names above. -->
-
----
-
 **Team project** at ENSC (Bordeaux INP) by Alyaa Saab and Lucas Sainte-Croix.
